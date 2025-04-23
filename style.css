@@ -9,3 +9,5 @@ body{
 
 header{
   background-color: green;
+  position: static;
+}
