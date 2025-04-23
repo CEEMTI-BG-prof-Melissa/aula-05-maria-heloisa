@@ -4,7 +4,8 @@ html{
 
 body{
   background-size: cover;
+  min-height: 10px;
 }
 
 header{
-  background-color: red;
+  background-color: green;
